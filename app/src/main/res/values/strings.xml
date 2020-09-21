@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JayPatel_CENG319Lab1_Ex1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_create" />
+    <string name="on_start" />
+    <string name="on_stop" />
+    <string name="on_destroy" />
+    <string name="ai_activity" />
+    <string name="on_create_view" />
+    <string name="main_activity" />
+    <string name="vr_activity" />
+</resources>
